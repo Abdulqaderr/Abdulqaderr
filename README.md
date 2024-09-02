@@ -5,7 +5,7 @@
 
 <p>My experience includes working on various projects, both professionally and as a volunteer, where I have been actively involved in creating web applications. Additionally, I maintain a collection of personal project repositories that highlight my expertise and ongoing learning.</p>
 
-<p> <a href="https://www.linkedin.com/in/abdulqaderra/">LinkedIn</a> is another place where you can find me.</p>
+<p> <a href="https://www.linkedin.com/in/abdulqaderra/"target="_blank">LinkedIn</a> is another place where you can find me.</p>
 <h1>🛠  Developer Stack  </h1>
 <p align="center">
   <a >
