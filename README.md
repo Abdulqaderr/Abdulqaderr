@@ -1,9 +1,11 @@
 <h1>Abdulqader Hussein</h1>
-<p>I'm a full stack developer who primarily works with React.js.</p>
 
-<p>I have a passion for delving into emerging technologies and continually expanding my skill set to stay ahead in the dynamic tech world.</p>
+<p>I’m a full stack developer with a strong focus on React.js.</p>
 
-<p>My experience includes working on various projects, both professionally and as a volunteer, where I have been actively involved in creating web applications. Additionally, I maintain a collection of personal project repositories that highlight my expertise and ongoing learning.</p>
+<p>I have a deep passion for exploring emerging technologies and continuously expanding my skills to stay at the forefront of the ever-evolving tech landscape.</p>
+
+<p>My experience spans both professional and volunteer projects, where I’ve played a key role in developing web applications.</p>
+
 
 <p> <a href="https://www.linkedin.com/in/abdulqaderra/" target="_blank" >LinkedIn</a> is another place where you can find me.</p>
 <h1>🛠  Developer Stack  </h1>
