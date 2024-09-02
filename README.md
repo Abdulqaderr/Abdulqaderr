@@ -8,7 +8,7 @@
 <p> <a href="https://www.linkedin.com/in/abdulqaderra/">LinkedIn</a> is another place where you can find me.</p>
 <h1>🛠  Developer Stack  </h1>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a >
     <img src="https://skillicons.dev/icons?i=js,java,cpp,html,css,react,bootstrap,sass,tailwind,mysql,sqlite,firebase,postman,docker,git,github,gitlab" />
   </a>
 </p>
